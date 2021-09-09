@@ -1,7 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 <<<<<<< HEAD
+<<<<<<< HEAD
 .java linguist-detectable=false
 =======
 .java linguist-detectable=true
 >>>>>>> 8f5e1176d3afdb8ccebba0702cedf852e44168a5
+=======
+.java linguist-detectable=false
+>>>>>>> 67940f340d18f318ccd7abd4ed74f19ce1f7062f
